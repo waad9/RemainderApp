@@ -14,6 +14,7 @@
 		4AA72E92290A8C2D00840A32 /* _8Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA72E91290A8C2D00840A32 /* _8Tests.swift */; };
 		4AA72E9C290A8C2D00840A32 /* _8UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA72E9B290A8C2D00840A32 /* _8UITests.swift */; };
 		4AA72E9E290A8C2D00840A32 /* _8UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA72E9D290A8C2D00840A32 /* _8UITestsLaunchTests.swift */; };
+		4AA72EAB290A8E2E00840A32 /* testscreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA72EAA290A8E2E00840A32 /* testscreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		4AA72E97290A8C2D00840A32 /* 18UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 18UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AA72E9B290A8C2D00840A32 /* _8UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _8UITests.swift; sourceTree = "<group>"; };
 		4AA72E9D290A8C2D00840A32 /* _8UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _8UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4AA72EAA290A8E2E00840A32 /* testscreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testscreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		4AA72E74290A8C2C00840A32 = {
 			isa = PBXGroup;
 			children = (
+				4AA72EAA290A8E2E00840A32 /* testscreen.swift */,
 				4AA72E7F290A8C2C00840A32 /* 18 */,
 				4AA72E90290A8C2D00840A32 /* 18Tests */,
 				4AA72E9A290A8C2D00840A32 /* 18UITests */,
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4AA72EAB290A8E2E00840A32 /* testscreen.swift in Sources */,
 				4AA72E83290A8C2C00840A32 /* ContentView.swift in Sources */,
 				4AA72E81290A8C2C00840A32 /* _8App.swift in Sources */,
 			);
